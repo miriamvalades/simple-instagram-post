@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    background:black;
+}
+div {
+    box-sizing: border-box;
+}
+header h1 {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+div.container {
+    width: 600px;
+    margin:auto;
+}
+div.post {
+    background: white;
+    margin-top: 20px;
+    margin-bottom: 85px;
+}
+div.post img {
+    width: 100%;
+}
+
+div.iconos {
+    display:inline-block;
+    width: 85%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+div.iconos svg {
+    width: 35px;
+}
+div.save {
+    display:inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+div.save svg {
+    width: 25px;
+}
+div.user-info {
+    padding-top:5px;
+    padding-bottom:5px;
+}
+div.user-info-icono {
+    display:inline-block;
+    width: 8%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+div.user-info-icono svg {
+    width: 35px;
+}
+div.user-info-name {
+    display:inline-block;
+    width: 83%;
+    vertical-align: top;
+    margin-left: -5px;
+}
+div.user-info-more {
+    display:inline-block;
+    margin-top: 10px;
+}
+div.user-info-more svg {
+    width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.post-likes {
+    margin-top:25px;
+    margin-left: 10px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+div.post-description {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 20px; 
+}
+
+
+div.post .user-name {
+    display:inline-block;
+    width: 10%;
+    padding:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+div.post .settings {
+    display:inline-block;
+    width: 20%;
+    text-align: right;
+    padding:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+div.post h2, div.post p, div.post span {
+    padding:10px;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
